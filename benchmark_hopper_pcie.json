@@ -1,0 +1,10 @@
+{
+  "cold_ttft_avg": 21.73292636871338,
+  "warm_ttft_avg": 20.01807424757216,
+  "cold_total_avg": 338.56701850891113,
+  "warm_total_avg": 344.9745972951253,
+  "ttft_improvement_ms": 1.7148521211412213,
+  "ttft_speedup": 1.0856651893650162,
+  "total_speedup": 0.9814259402389199,
+  "system_name": "Hopper PCIe"
+}
